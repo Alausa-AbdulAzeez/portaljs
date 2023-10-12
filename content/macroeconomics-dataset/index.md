@@ -4,4 +4,4 @@ Built with PortalJS
 
 ## Table
 
-<Table url="master_macroeconomics.csv" />
+<Table fullWidth url="master_macroeconomics.csv" />
