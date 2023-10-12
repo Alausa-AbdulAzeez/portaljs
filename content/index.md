@@ -1,7 +1,11 @@
-# Welcome to my data portal!
+---
+title: "Hi there, welcome to my data portal page"
+
+author: "Alausa Abdulazeez"
+modified: "2023-12-10"
+---
 
 List of available datasets:
 
-- [Default Dataset](/default-dataset)
 - [US Macroeconomics Dataset](/macroeconomics-dataset)
 - [Wages by Education Dataset](/wages_by_education)
